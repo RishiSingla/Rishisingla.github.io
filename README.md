@@ -58,7 +58,7 @@ A little bit about the engine of the 2009 Dodge Journey sxt.
 <h8>Decesion time</h8>
 <p>I would say the Dodge journey is better because it has more horsepower, seating space, it is front and all wheel drive, and it has more cylinder's meaning even more horsepower. On the other hand the CR-V has better milage in the city and highway meaning you won't have to fill your gas tank up as often as you have to in the Journey and you will pay less for gas because of the 2.4L engine.</p>
 <p>The Dodge journey is better over all but the Honda CR-V is better because it cost's less overall in buying and gas cost.
-I will go with the Dodge because it has more seating space but most people will go with the CR-V because of the cost.But i would go with the Dodge Journey because of the space.</p>
+I will go with the Dodge because it has more seating space but most people will go with the CR-V because of the cost.</p>
 <p>Therefore the Honda CR-V is better because of the cost.</p>
 </body>
 </html>
