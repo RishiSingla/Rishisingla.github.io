@@ -25,7 +25,7 @@ A little bit about the engine of the 2009 Dodge Journey sxt.
 <a href="https://www.youtube.com/watch?v=mcXRh4d4nbw">Tour link</a>
 <h4>The spec's</h4>
 <p>Now, that you have had a tour of the car it is time to look at the spec's of the Journey.</p>
-<a href="https://www.edmunds.com/dodge/journey/2009/st-100973341/features-specs/"> Dodge Journey spec's</a>
+<a href="https://www.edmunds.com/dodge/journey/2009/st-100973342/features-specs/"> Dodge Journey spec's</a>
 <p> </p>
 <p> </p>
 <p>You have had a tour about the Veracruz it is ime to learn about the spec's</p>
