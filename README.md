@@ -2,7 +2,7 @@
 <head>
 </head>
 <body>
-<h1> The hi 2009 Dodge Journey Sxt vs. the Honda CR-V.</h1>
+<h1> The 2009 Dodge Journey Sxt vs. the Honda CR-V.</h1>
 <h2>The engines in the car's</h2>
 <p>
 A little bit about the engine of the 2009 Dodge Journey sxt.
