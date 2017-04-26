@@ -9,7 +9,7 @@ A little bit about the engine of the 2009 Dodge Journey sxt.
 </p>
 <p>The V4 engine offers 173 horse power and the V6 engine offers 235 horse power.</p>
 
-<img src="https://cdn04.carsforsale.com/3/1008987/6954112/830343884.jpg">
+<img src="http://st.motortrend.com/uploads/sites/5/2008/02/112_0804_35z-2009_dodge_journey-engine.jpg">
 <p>This is a 3.5L V6 engine.</p>
 
 <img src="https://i.ytimg.com/vi/XWUVbQw2fEw/maxresdefault.jpg">
