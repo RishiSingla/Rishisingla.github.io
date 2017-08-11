@@ -16,7 +16,7 @@ A little bit about the engine of the 2009 Dodge Journey sxt.
 <p>This is the Dual VVT 2.4L V4 engine. This is a really hard engine to find in the 2009 Dodge journey because they didn't produce a lot of V4 engine and this engine is in the SE not the SXT.</p>
 
 <p>The Honda CR-V engine.</p>
-<img src="http://autoguide.com.vsassets.com/blog/wp-content/uploads/2014/06/2008_CR_V_EX_L_130.jpg">
+<img src="http://www.autodetective.com/_upload/photos/honda/cr-v/2009/67343.jpg">
 <p>This is the 2.4L V4 DOHC engine and it is the only engine in the CR-V it is 166 horse power.</p>
 <h3>The Depth Tour</h3>
 <p>Click the Click here link below and it will direct you to a video giving a depth tour about the Journey.</p>
