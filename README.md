@@ -1,5 +1,7 @@
+<!DOCTYPE html>
 <html>
 <head>
+  <title>Comparison</title>
 </head>
 <body>
 <h1> The 2009 Dodge Journey Sxt vs. the Honda CR-V.</h1>
